@@ -1,0 +1,11 @@
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\MainWindow.baml
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\MainWindow.g.cs
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\App.g.cs
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\snookviewAutoScore_MarkupCompile.cache
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\snookviewAutoScore.g.resources
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\snookviewAutoScore.csproj.GenerateResource.Cache
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\bin\Debug\snookviewAutoScore.exe
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\bin\Debug\snookviewAutoScore.pdb
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\snookviewAutoScore.Properties.Resources.resources
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\snookviewAutoScore.exe
+C:\Users\GilkoDesktop7\Documents\Visual Studio 2010\Projects\snookviewAutoScore\snookviewAutoScore\obj\x86\Debug\snookviewAutoScore.pdb
